@@ -1,6 +1,6 @@
 {
   "name": "gulp-unescape-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A gulp plugin for unescape html",
   "main": "dist/package/index",
   "scripts": {
