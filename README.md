@@ -24,6 +24,19 @@ gulp.task('unescaped', function () {
 });
 ```
 
+### Examples
+
+Input:
+
+```
+&lt;?php ?&gt;
+```
+
+Output:
+
+```
+<?php ?>
+```
 
 [downloads-image]: http://img.shields.io/npm/dm/gulp-unescape-html.svg
 [npm-url]: https://www.npmjs.org/package/gulp-unescape-html
